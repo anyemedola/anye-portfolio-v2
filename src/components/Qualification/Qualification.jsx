@@ -4,9 +4,9 @@ import "./qualification.css";
 function Qualification() {
   return (
     <section className="qualification section" id="qualification">
-      <h2 className="section_title">Qualification</h2>
+      <h2 className="section_title">My employment history</h2>
       <span className="section_subtitle">
-        Here's little bit of my history in the IT Industry
+        Here's little bit of my qualification in the IT Industry
       </span>
 
       <div className="qualification_container container">
@@ -90,7 +90,6 @@ function Qualification() {
 
               <div>
                 <span className="qualification_rounder"></span>
-                <span className="qualification_line"></span>
               </div>
             </div>
           </div>
