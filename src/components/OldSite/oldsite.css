@@ -26,4 +26,9 @@
     .oldsite_content {
         padding: 0 ;
     }
+
+    .oldsite_content img {
+        width: 100%;
+        filter: grayscale(0%);
+    }
   }
