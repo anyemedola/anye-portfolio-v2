@@ -2,7 +2,6 @@ import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/any-medola.png";
 import CV from "../../assets/CV-Any-Medola.pdf";
-import Info from "./Info";
 
 function About() {
   return (
